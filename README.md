@@ -1,9 +1,9 @@
-
--Hi, I'm @Maulana-Effendi
--🙋 I'm interested in hackers
-- 🙇I'm learning a way to become a hacker
-- ️🙆 I want to collaborate in the world of hacking
--📞 How to contact me wa:085692208436
+Hi, I'm @Maulana-Effendi
+- 🙋I'm interested in hackers
+-🙇 I'm learning a way to become a hacker
+- ️ 🙇I want to collaborate in the world of hacking
+-🙆I'm looking/learning how to hack a wifi with WPA-2 security or strong security
+- 📞How to contact me wa+6285692208436
 email: pendikasyepsganteng@gmail.com
 
 <!---
